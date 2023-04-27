@@ -95,3 +95,5 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20231002182017-d307bd883b97 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 )
+
+replace github.com/dop251/goja => github.com/mstoykov/goja v0.0.0-20231212144616-08f562ee86d0
