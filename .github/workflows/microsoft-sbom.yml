@@ -3,7 +3,7 @@ on:
   push:
     branches: [ "v0.49.0_release" ]
   pull_request:
-    branches: [ "v0.49.0_releasee" ]
+    branches: [ "v0.49.0_release" ]
 
 jobs:
   analyze:
